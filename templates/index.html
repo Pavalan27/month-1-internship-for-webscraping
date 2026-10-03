@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Product Sentiment Analyzer</title>
+
+    <link rel="stylesheet" href="/static/style.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+
+    <header>
+        <h1>Product Sentiment Analyzer</h1>
+        <p>Analyze customer reviews using NLP</p>
+    </header>
+
+
+    <main>
+
+        <!-- Search Section -->
+
+        <section class="search-box">
+
+            <h2>Search Product</h2>
+
+            <select id="productSelect">
+                <option value="">Select a product</option>
+            </select>
+
+            <button onclick="analyzeProduct()">
+                Analyze
+            </button>
+
+        </section>
+
+
+        <!-- Statistics -->
+
+        <section class="stats">
+
+            <div class="card">
+                <h3>Total Reviews</h3>
+                <p id="total">0</p>
+            </div>
+
+            <div class="card">
+                <h3>Positive</h3>
+                <p id="positive">0</p>
+            </div>
+
+            <div class="card">
+                <h3>Negative</h3>
+                <p id="negative">0</p>
+            </div>
+
+            <div class="card">
+                <h3>Neutral</h3>
+                <p id="neutral">0</p>
+            </div>
+
+        </section>
+
+
+        <!-- Chart -->
+
+        <section class="chart-section">
+
+            <h2>Sentiment Distribution</h2>
+
+            <canvas id="sentimentChart"></canvas>
+
+        </section>
+
+
+        <!-- Reviews -->
+
+        <section>
+
+            <h2>Customer Reviews</h2>
+
+            <div id="reviewsContainer"></div>
+
+        </section>
+
+    </main>
+
+
+    <script src="/static/script.js"></script>
+
+</body>
+
+</html>

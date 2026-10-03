@@ -1,0 +1,66 @@
+product,category,brand,price,rating,review
+iPhone 15,Smartphone,Apple,69999,5,Excellent camera and smooth performance
+iPhone 15,Smartphone,Apple,69999,5,Battery life is very good
+iPhone 15,Smartphone,Apple,69999,4,Display quality is excellent
+iPhone 15,Smartphone,Apple,69999,3,Battery could be better
+iPhone 15,Smartphone,Apple,69999,2,Very disappointing battery performance
+
+Samsung Galaxy S24,Smartphone,Samsung,74999,5,Excellent display and amazing camera
+Samsung Galaxy S24,Smartphone,Samsung,74999,5,Very smooth performance
+Samsung Galaxy S24,Smartphone,Samsung,74999,4,Camera quality is very good
+Samsung Galaxy S24,Smartphone,Samsung,74999,3,Battery performance is average
+Samsung Galaxy S24,Smartphone,Samsung,74999,2,Phone gets warm during heavy usage
+
+OnePlus 12,Smartphone,OnePlus,64999,5,Excellent performance and fast charging
+OnePlus 12,Smartphone,OnePlus,64999,5,Very smooth gaming experience
+OnePlus 12,Smartphone,OnePlus,64999,4,Display looks beautiful
+OnePlus 12,Smartphone,OnePlus,64999,3,Camera performance is average
+OnePlus 12,Smartphone,OnePlus,64999,2,Battery drains quickly during gaming
+
+Redmi Note 13 Pro,Smartphone,Xiaomi,29999,5,Excellent phone for the price
+Redmi Note 13 Pro,Smartphone,Xiaomi,29999,4,Camera quality is impressive
+Redmi Note 13 Pro,Smartphone,Xiaomi,29999,4,Display is bright and clear
+Redmi Note 13 Pro,Smartphone,Xiaomi,29999,3,Performance is average
+Redmi Note 13 Pro,Smartphone,Xiaomi,29999,2,Software experience is disappointing
+
+HP Pavilion 15,Laptop,HP,62999,5,Excellent laptop for daily work
+HP Pavilion 15,Laptop,HP,62999,5,Keyboard and display are very good
+HP Pavilion 15,Laptop,HP,62999,4,Performance is good for students
+HP Pavilion 15,Laptop,HP,62999,3,Battery backup is average
+HP Pavilion 15,Laptop,HP,62999,2,Laptop becomes slow with heavy applications
+
+Dell Inspiron 15,Laptop,Dell,58999,5,Very good laptop for office work
+Dell Inspiron 15,Laptop,Dell,58999,4,Display quality is good
+Dell Inspiron 15,Laptop,Dell,58999,4,Keyboard feels comfortable
+Dell Inspiron 15,Laptop,Dell,58999,3,Battery life could be better
+Dell Inspiron 15,Laptop,Dell,58999,2,Performance is disappointing for gaming
+
+Lenovo LOQ,Laptop,Lenovo,79999,5,Excellent gaming performance
+Lenovo LOQ,Laptop,Lenovo,79999,5,Build quality is very good
+Lenovo LOQ,Laptop,Lenovo,79999,4,Display is good for gaming
+Lenovo LOQ,Laptop,Lenovo,79999,3,Battery backup is average
+Lenovo LOQ,Laptop,Lenovo,79999,2,Laptop is heavy to carry
+
+ASUS TUF Gaming F15,Laptop,ASUS,74999,5,Excellent gaming laptop
+ASUS TUF Gaming F15,Laptop,ASUS,74999,5,Performance is extremely good
+ASUS TUF Gaming F15,Laptop,ASUS,74999,4,Keyboard is comfortable
+ASUS TUF Gaming F15,Laptop,ASUS,74999,3,Fan noise is noticeable
+ASUS TUF Gaming F15,Laptop,ASUS,74999,2,Battery backup is poor
+
+boAt Airdopes 141,Earbuds,boAt,1299,5,Excellent sound quality for the price
+boAt Airdopes 141,Earbuds,boAt,1299,5,Bass quality is very good
+boAt Airdopes 141,Earbuds,boAt,1299,4,Comfortable for daily use
+boAt Airdopes 141,Earbuds,boAt,1299,3,Microphone quality is average
+boAt Airdopes 141,Earbuds,boAt,1299,2,Connection problems occur sometimes
+
+Sony WH-1000XM5,Headphones,Sony,29990,5,Outstanding sound quality
+Sony WH-1000XM5,Headphones,Sony,29990,5,Noise cancellation is excellent
+Sony WH-1000XM5,Headphones,Sony,29990,4,Very comfortable headphones
+Sony WH-1000XM5,Headphones,Sony,29990,3,Bass could be better
+Sony WH-1000XM5,Headphones,Sony,29990,2,Price feels too high
+
+JBL Tune 770NC,Headphones,JBL,5999,5,Excellent sound and bass
+JBL Tune 770NC,Headphones,JBL,5999,4,Noise cancellation works well
+JBL Tune 770NC,Headphones,JBL,5999,4,Comfortable for long listening
+JBL Tune 770NC,Headphones,JBL,5999,3,Microphone quality is average
+JBL Tune 770NC,Headphones,JBL,5999,2,Bluetooth connection is disappointing

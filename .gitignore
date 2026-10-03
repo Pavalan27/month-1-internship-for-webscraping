@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and tooling
+.vscode/
+.idea/
+.kilo/
+
+# Environments
+.env
+venv/
+.venv/
+env/
